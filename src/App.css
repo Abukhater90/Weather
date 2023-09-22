@@ -1,0 +1,32 @@
+.navbar-Header {
+  font-size: 25px;
+  text-align: center;
+}
+
+.navbar-Header-link {
+  padding: 40px;
+  color: white;
+}
+
+.navbar-Header-link:hover {
+  color: rgb(75, 194, 20);
+}
+
+.sign{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding: 25px;
+text-align: center;
+margin-top: 200px;
+border: 1px solid ;
+
+border-radius: 100px;
+
+
+}
+
+
+
+
